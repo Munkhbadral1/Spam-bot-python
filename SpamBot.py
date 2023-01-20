@@ -1,7 +1,7 @@
-import pyautogui as p
+import pyautogui as p 
 import time as t
 
-t.sleep(3)
+t.sleep(3)  #3s
 
 f=open('fileforspam', 'r')
 
